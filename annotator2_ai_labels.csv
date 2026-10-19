@@ -1,0 +1,21 @@
+id,sentence,a2_play_type,a2_passer,a2_receiver,a2_runner,a2_yards,a2_result,agrees
+t04,"Marcus lofted one to Jay down the sideline, 27 yards",pass,Marcus,Jaylen,,27,complete,yes
+t20,Marcus threw it short to Devon and he gained 4,pass,Marcus,Devon,,4,complete,yes
+t23,TD! Sam hit Devon from 8 yards out,pass,Sam,Devon,,8,touchdown,yes
+t25,Marcus's pass for Tasha was incomplete,pass,Marcus,Tasha,,0,incomplete,yes
+t26,Sam threw it out of bounds,pass,Sam,,,0,incomplete,yes
+t37,Marcus got picked off,pass,Marcus,,,0,interception,yes
+t50,#12 ran 5 yards,run,,,Devon,5,none,yes
+t66,Sam threw to Jaylan for 13,pass,Sam,Jaylen,,13,complete,yes
+t71,Tasha ran for a 6 yard loss,run,,,Tasha,-6,none,yes
+t74,Sammy threw it away,pass,Sam,,,0,incomplete,yes
+t75,Devon caught a pass from Sam for 10 yards,pass,Sam,Devon,,10,complete,yes
+t80,Marcus ran for 2 yards,run,,,Marcus,2,none,yes
+h01,The ball was thrown by Sam to Tasha for 9 yards,pass,Sam,Tasha,,9,complete,yes
+h04,Devon was stopped for a 3 yard loss,run,,,Devon,-3,none,yes
+h05,"The pass from Sam was intercepted, intended for Dev",pass,Sam,Devon,,0,interception,yes
+h10,Tasha ran,run,,,Tasha,0,none,yes
+h15,Marcous threw to Taysha for 8,pass,Marcus,Tasha,,8,complete,yes
+h20,"Number 15 handed off to number 4, who gained 8",run,,,Jaylen,8,none,yes
+h25,Timeout called by the offense,no_play,,,,0,none,yes
+h28,Two minute warning,no_play,,,,0,none,yes

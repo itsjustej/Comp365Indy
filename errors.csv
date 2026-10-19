@@ -1,0 +1,73 @@
+system,id,split,difficulty,sentence,field,predicted,gold
+Rule-based baseline,t05,test,standard,Tash caught Sam's throw for 12,passer,Tasha,Sam
+Rule-based baseline,t05,test,standard,Tash caught Sam's throw for 12,receiver,Sam,Tasha
+Rule-based baseline,t11,test,standard,"#9 hauled it in for 11 yards, thrown by #15",passer,Tasha,Sam
+Rule-based baseline,t11,test,standard,"#9 hauled it in for 11 yards, thrown by #15",receiver,Sam,Tasha
+Rule-based baseline,t13,test,standard,Sam dropped it off to Riley for 2,yards,0,2
+Rule-based baseline,t13,test,standard,Sam dropped it off to Riley for 2,result,incomplete,complete
+Rule-based baseline,t14,test,standard,Riley was wide open and Marcus hit her for 13,passer,Riley,Marcus
+Rule-based baseline,t14,test,standard,Riley was wide open and Marcus hit her for 13,receiver,Marcus,Riley
+Rule-based baseline,t17,test,standard,"Dev caught it, 7 yards, Sam threw it",passer,Devon,Sam
+Rule-based baseline,t17,test,standard,"Dev caught it, 7 yards, Sam threw it",receiver,Sam,Devon
+Rule-based baseline,t18,test,standard,"Marcus fired a pass to Tasha, 18",yards,0,18
+Rule-based baseline,t22,test,standard,"Marcus to Jay in the end zone for six, 12 yards",result,complete,touchdown
+Rule-based baseline,t26,test,standard,Sam threw it out of bounds,result,complete,incomplete
+Rule-based baseline,t28,test,standard,Riley dropped Sam's pass,passer,Riley,Sam
+Rule-based baseline,t28,test,standard,Riley dropped Sam's pass,receiver,Sam,Riley
+Rule-based baseline,t30,test,standard,Sam's pass to Dev was batted down,result,complete,incomplete
+Rule-based baseline,t31,test,standard,Marcus threw it away under pressure,result,complete,incomplete
+Rule-based baseline,t32,test,standard,Jay couldn't hold on to the pass from Marcus,result,complete,incomplete
+Rule-based baseline,t48,test,standard,Devon was dropped for a 2 yard loss,yards,0,-2
+Rule-based baseline,t48,test,standard,Devon was dropped for a 2 yard loss,result,incomplete,none
+Rule-based baseline,t52,test,standard,Sam handed it to Tasha and she ran for 11,runner,Sam,Tasha
+Rule-based baseline,t53,test,standard,Marcus ran it in from 6 yards for a score,result,none,touchdown
+Rule-based baseline,t57,test,standard,"Illegal motion on the offense, 5 yards",play_type,run,penalty
+Rule-based baseline,t57,test,standard,"Illegal motion on the offense, 5 yards",yards,5,-5
+Rule-based baseline,t59,test,standard,"Illegal contact on the defense, 5 yards",play_type,run,penalty
+Rule-based baseline,t60,test,standard,"Delay of game on the offense, 5 yards",play_type,run,penalty
+Rule-based baseline,t60,test,standard,"Delay of game on the offense, 5 yards",yards,5,-5
+Rule-based baseline,t61,test,standard,"Encroachment on the defense, 5 yards",play_type,run,penalty
+Rule-based baseline,t66,test,standard,Sam threw to Jaylan for 13,receiver,,Jaylen
+Rule-based baseline,t74,test,standard,Sammy threw it away,result,complete,incomplete
+Rule-based baseline,h02,hard,passive voice,"Jaylen was targeted by Marcus, but it fell incomplete",passer,Jaylen,Marcus
+Rule-based baseline,h02,hard,passive voice,"Jaylen was targeted by Marcus, but it fell incomplete",receiver,Marcus,Jaylen
+Rule-based baseline,h03,hard,passive voice,"A 14 yard completion to Riley, thrown by Marcus",passer,Riley,Marcus
+Rule-based baseline,h03,hard,passive voice,"A 14 yard completion to Riley, thrown by Marcus",receiver,Marcus,Riley
+Rule-based baseline,h07,hard,missing yards,Riley rushed for a score,result,none,touchdown
+Rule-based baseline,h15,hard,misspelled names,Marcous threw to Taysha for 8,passer,,Marcus
+Rule-based baseline,h15,hard,misspelled names,Marcous threw to Taysha for 8,receiver,,Tasha
+Rule-based baseline,h18,hard,misspelled names,Devin ran for 6,runner,,Devon
+Rule-based baseline,h20,hard,jersey numbers,"Number 15 handed off to number 4, who gained 8",runner,,Jaylen
+Rule-based baseline,h21,hard,slang,"Marcus launched a bomb to Jay, house call, 45 yards",result,complete,touchdown
+Rule-based baseline,h22,hard,slang,"Sam got picked, Dev was the target",result,complete,interception
+Rule-based baseline,h23,hard,slang,Tasha juked two guys and took it 13,yards,0,13
+Rule-based baseline,h24,hard,slang,"Marcus airmailed it, nobody there",play_type,run,pass
+Rule-based baseline,h24,hard,slang,"Marcus airmailed it, nobody there",passer,,Marcus
+Rule-based baseline,h24,hard,slang,"Marcus airmailed it, nobody there",runner,Marcus,
+Rule-based baseline,h24,hard,slang,"Marcus airmailed it, nobody there",result,none,incomplete
+Rule-based baseline,h25,hard,non-play,Timeout called by the offense,play_type,run,no_play
+Rule-based baseline,h26,hard,non-play,End of the first half,play_type,run,no_play
+Rule-based baseline,h27,hard,non-play,Marcus checked with the ref before the snap,play_type,run,no_play
+Rule-based baseline,h27,hard,non-play,Marcus checked with the ref before the snap,runner,Marcus,
+Rule-based baseline,h28,hard,non-play,Two minute warning,play_type,run,no_play
+Rule-based baseline,h29,hard,two plays (label last),"Marcus threw incomplete to Tasha, then Sam ran for 5 on the next play",runner,Marcus,Sam
+Rule-based baseline,h29,hard,two plays (label last),"Marcus threw incomplete to Tasha, then Sam ran for 5 on the next play",yards,0,5
+Rule-based baseline,h29,hard,two plays (label last),"Marcus threw incomplete to Tasha, then Sam ran for 5 on the next play",result,incomplete,none
+Haiku 4.5 zero-shot,t16,test,standard,"Jay made a nice grab from Marcus, 10 yards",PARSE FAILURE,JSONDecodeError: Extra data: line 9 column 1 (char 129),
+Haiku 4.5 zero-shot,t32,test,standard,Jay couldn't hold on to the pass from Marcus,passer,Jaylen,Marcus
+Haiku 4.5 zero-shot,t32,test,standard,Jay couldn't hold on to the pass from Marcus,receiver,Marcus,Jaylen
+Haiku 4.5 zero-shot,t66,test,standard,Sam threw to Jaylan for 13,receiver,,Jaylen
+Haiku 4.5 zero-shot,t66,test,standard,Sam threw to Jaylan for 13,yards,0,13
+Haiku 4.5 zero-shot,t66,test,standard,Sam threw to Jaylan for 13,result,incomplete,complete
+Haiku 4.5 zero-shot,h09,hard,missing yards,Penalty on the defense,yards,15,0
+Haiku 4.5 zero-shot,h17,hard,player not on roster,Chris ran for 5 yards,play_type,no_play,run
+Haiku 4.5 zero-shot,h17,hard,player not on roster,Chris ran for 5 yards,yards,0,5
+Haiku 4.5 zero-shot,h21,hard,slang,"Marcus launched a bomb to Jay, house call, 45 yards",result,complete,touchdown
+Haiku 4.5 zero-shot,h22,hard,slang,"Sam got picked, Dev was the target",passer,Devon,Sam
+Haiku 4.5 zero-shot,h22,hard,slang,"Sam got picked, Dev was the target",receiver,Sam,Devon
+Haiku 4.5 few-shot,t74,test,standard,Sammy threw it away,PARSE FAILURE,"ValueError: wrong keys: ['passer', 'play_type', 'receiver', 'result', 'yards']",
+Haiku 4.5 few-shot,h09,hard,missing yards,Penalty on the defense,yards,5,0
+Haiku 4.5 few-shot,h15,hard,misspelled names,Marcous threw to Taysha for 8,passer,,Marcus
+Haiku 4.5 few-shot,h15,hard,misspelled names,Marcous threw to Taysha for 8,receiver,,Tasha
+Haiku 4.5 few-shot,h15,hard,misspelled names,Marcous threw to Taysha for 8,yards,0,8
+Haiku 4.5 few-shot,h15,hard,misspelled names,Marcous threw to Taysha for 8,result,none,complete

@@ -1,0 +1,6164 @@
+{
+ "Rule-based baseline": [
+  [
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 14,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 6,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 27,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Tasha",
+    "receiver": "Sam",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 5,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 8,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 16,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 22,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 3,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Tasha",
+    "receiver": "Sam",
+    "runner": null,
+    "yards": 11,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 19,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Riley",
+    "receiver": "Marcus",
+    "runner": null,
+    "yards": 13,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 15,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 10,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Devon",
+    "receiver": "Sam",
+    "runner": null,
+    "yards": 7,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 20,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 4,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 24,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 8,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 30,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Riley",
+    "receiver": "Sam",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 9,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 4,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 8,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 3,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Sam",
+    "yards": 12,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 20,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 14,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": -4,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 10,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 7,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Sam",
+    "yards": 11,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 10,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 21,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 13,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 6,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 3,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 18,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": -6,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 7,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 9,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 10,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 15,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 2,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Jaylen",
+    "receiver": "Marcus",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Riley",
+    "receiver": "Marcus",
+    "runner": null,
+    "yards": 14,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": -3,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 11,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 15,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 8,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 17,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 8,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 45,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   }
+  ]
+ ],
+ "Haiku 4.5 zero-shot": [
+  [
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 14,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 6,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 27,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 5,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 8,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 16,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 22,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 3,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 11,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 19,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 2,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 13,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 15,
+    "result": "complete"
+   },
+   {
+    "_error": "JSONDecodeError: Extra data: line 9 column 1 (char 129)"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 7,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 18,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 20,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 4,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 24,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 12,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 8,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 30,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Jaylen",
+    "receiver": "Marcus",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 9,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 4,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 8,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 3,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Sam",
+    "yards": 12,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 20,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 14,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": -4,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": -2,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 10,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 7,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 11,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 6,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 21,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 6,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 3,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 18,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": -6,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 7,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 9,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 10,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 15,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 2,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 14,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": -3,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 0,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 15,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 11,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 15,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 8,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 17,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 8,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 45,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Devon",
+    "receiver": "Sam",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 13,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Sam",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   }
+  ],
+  [
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 14,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 6,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 27,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 5,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 8,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 16,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 22,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 3,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 11,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 19,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 2,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 13,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 15,
+    "result": "complete"
+   },
+   {
+    "_error": "JSONDecodeError: Extra data: line 9 column 1 (char 129)"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 7,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 18,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 20,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 4,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 24,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 12,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 8,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 30,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Jaylen",
+    "receiver": "Marcus",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 9,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 4,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 8,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 3,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Sam",
+    "yards": 12,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 20,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 14,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": -4,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": -2,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 10,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 7,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 11,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 6,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 21,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 6,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 3,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 18,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": -6,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 7,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 9,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 10,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 15,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 2,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 14,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": -3,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 0,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 11,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 15,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 8,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 17,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 8,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 45,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Devon",
+    "receiver": "Sam",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 13,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Sam",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   }
+  ]
+ ],
+ "Haiku 4.5 few-shot": [
+  [
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 14,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 6,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 27,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 5,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 8,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 16,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 22,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 3,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 11,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 19,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 2,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 13,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 15,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 10,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 7,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 18,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 20,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 4,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 24,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 12,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 8,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 30,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 9,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 4,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 8,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 3,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Sam",
+    "yards": 12,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 20,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 14,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": -4,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": -2,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 10,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 7,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 11,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 6,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 21,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 13,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 6,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 3,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 18,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": -6,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 7,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 9,
+    "result": "none"
+   },
+   {
+    "_error": "ValueError: wrong keys: ['passer', 'play_type', 'receiver', 'result', 'yards']"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 10,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 15,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 2,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 14,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": -3,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 0,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 11,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 15,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 17,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 8,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 45,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 13,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Sam",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   }
+  ],
+  [
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 14,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 6,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 27,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 5,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 8,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 16,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 22,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 3,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 11,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 19,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 2,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 13,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 15,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 10,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 7,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 18,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 20,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 4,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 24,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 12,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 8,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 30,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 9,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 4,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 8,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 3,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Sam",
+    "yards": 12,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 20,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 14,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": -4,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": -2,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 10,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 7,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 11,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 6,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 21,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 13,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 6,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 3,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 18,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": -6,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 7,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 9,
+    "result": "none"
+   },
+   {
+    "_error": "ValueError: wrong keys: ['passer', 'play_type', 'receiver', 'result', 'yards']"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 10,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 15,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 2,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 14,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": -3,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 0,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 11,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 15,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 17,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 8,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 45,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 13,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Sam",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   }
+  ]
+ ],
+ "Sonnet 5.5 few-shot": [
+  [
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 14,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 6,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 27,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 5,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 8,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 16,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 22,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 3,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 11,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 19,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 2,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 13,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 15,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 10,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 7,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 18,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 20,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 4,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 24,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 12,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 8,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 30,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 9,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 4,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 8,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 3,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Sam",
+    "yards": 12,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 20,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 14,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": -4,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": -2,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 10,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 7,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 11,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 6,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 21,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 13,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 6,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 3,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 18,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": -6,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 7,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 9,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 10,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 15,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 2,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 14,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": -3,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 0,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 11,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 15,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 8,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 17,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 8,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 45,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 13,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Sam",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   }
+  ],
+  [
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 14,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 6,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 27,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 5,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 8,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 16,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 22,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 3,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 11,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 19,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 2,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 13,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 15,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 10,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 7,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 18,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 20,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 4,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 24,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 12,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 8,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 30,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 9,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 4,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 8,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 3,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Sam",
+    "yards": 12,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 20,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 14,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": -4,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": -2,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 10,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 7,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 11,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 6,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -5,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 21,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 13,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 6,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 3,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 18,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": -6,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 7,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 9,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 10,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 15,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Marcus",
+    "yards": 2,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Riley",
+    "runner": null,
+    "yards": 14,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": -3,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 0,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 0,
+    "result": "complete"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 12,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 11,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Riley",
+    "yards": 15,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Tasha",
+    "runner": null,
+    "yards": 8,
+    "result": "complete"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": null,
+    "runner": null,
+    "yards": 9,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Devon",
+    "yards": 6,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 17,
+    "result": "complete"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Jaylen",
+    "yards": 8,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": "Jaylen",
+    "runner": null,
+    "yards": 45,
+    "result": "touchdown"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Sam",
+    "receiver": "Devon",
+    "runner": null,
+    "yards": 0,
+    "result": "interception"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Tasha",
+    "yards": 13,
+    "result": "none"
+   },
+   {
+    "play_type": "pass",
+    "passer": "Marcus",
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "incomplete"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "no_play",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": 0,
+    "result": "none"
+   },
+   {
+    "play_type": "run",
+    "passer": null,
+    "receiver": null,
+    "runner": "Sam",
+    "yards": 5,
+    "result": "none"
+   },
+   {
+    "play_type": "penalty",
+    "passer": null,
+    "receiver": null,
+    "runner": null,
+    "yards": -10,
+    "result": "none"
+   }
+  ]
+ ]
+}

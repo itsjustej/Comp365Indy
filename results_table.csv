@@ -1,0 +1,5 @@
+System,test whole-entry,hard whole-entry,all whole-entry,all per-field,parse failures,runs
+Rule-based baseline,73.8% [63%-82%],50.0% [33%-67%],67.3% [58%-75%],91.8%,0,1
+Haiku 4.5 zero-shot,96.2% [90%-99%] (runs 96%-96%),88.3% [72%-96%] (runs 87%-90%),94.1% [88%-97%] (runs 94%-95%),97.6%,1/1,2
+Haiku 4.5 few-shot,98.8% [93%-100%] (runs 99%-99%),93.3% [79%-98%] (runs 93%-93%),97.3% [92%-99%] (runs 97%-97%),98.3%,1/1,2
+Sonnet 5.5 few-shot,99.4% [94%-100%] (runs 99%-100%),100.0% [89%-100%] (runs 100%-100%),99.5% [96%-100%] (runs 99%-100%),99.6%,0/0,2

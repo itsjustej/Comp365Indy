@@ -1,0 +1,300 @@
+{
+  "models": {
+    "haiku": "claude-haiku-4-5-20251001",
+    "sonnet": "claude-sonnet-5-5"
+  },
+  "repeats": 2,
+  "n_eval": 110,
+  "results": {
+    "Rule-based baseline": {
+      "test": {
+        "n": 80,
+        "mean": 0.7375,
+        "lo": 0.6318083375343555,
+        "hi": 0.8214272877399715,
+        "runs": [
+          0.7375
+        ],
+        "fields": {
+          "play_type": 0.95,
+          "passer": 0.9375,
+          "receiver": 0.925,
+          "runner": 0.9875,
+          "yards": 0.9375,
+          "result": 0.8875
+        }
+      },
+      "hard": {
+        "n": 30,
+        "mean": 0.5,
+        "lo": 0.33153851227173764,
+        "hi": 0.6684614877282624,
+        "runs": [
+          0.5
+        ],
+        "fields": {
+          "play_type": 0.8333333333333334,
+          "passer": 0.8666666666666667,
+          "receiver": 0.9,
+          "runner": 0.8333333333333334,
+          "yards": 0.9333333333333333,
+          "result": 0.8333333333333334
+        }
+      },
+      "all": {
+        "n": 110,
+        "mean": 0.6727272727272727,
+        "lo": 0.5805071278745891,
+        "hi": 0.7532900077946215,
+        "runs": [
+          0.6727272727272727
+        ],
+        "fields": {
+          "play_type": 0.9181818181818182,
+          "passer": 0.9181818181818182,
+          "receiver": 0.9181818181818182,
+          "runner": 0.9454545454545454,
+          "yards": 0.9363636363636364,
+          "result": 0.8727272727272727
+        }
+      }
+    },
+    "Haiku 4.5 zero-shot": {
+      "test": {
+        "n": 80,
+        "mean": 0.9625,
+        "lo": 0.8954510802560568,
+        "hi": 0.9871656636992113,
+        "runs": [
+          0.9625,
+          0.9625
+        ],
+        "fields": {
+          "play_type": 0.9875,
+          "passer": 0.975,
+          "receiver": 0.9625,
+          "runner": 0.9875,
+          "yards": 0.975,
+          "result": 0.975
+        }
+      },
+      "hard": {
+        "n": 30,
+        "mean": 0.8833333333333333,
+        "lo": 0.7232332342389567,
+        "hi": 0.9564036623616767,
+        "runs": [
+          0.8666666666666667,
+          0.9
+        ],
+        "fields": {
+          "play_type": 0.9833333333333333,
+          "passer": 0.9666666666666667,
+          "receiver": 0.9666666666666667,
+          "runner": 1.0,
+          "yards": 0.95,
+          "result": 0.9666666666666667
+        }
+      },
+      "all": {
+        "n": 110,
+        "mean": 0.9409090909090909,
+        "lo": 0.8802312929766075,
+        "hi": 0.9718298164947984,
+        "runs": [
+          0.9363636363636364,
+          0.9454545454545454
+        ],
+        "fields": {
+          "play_type": 0.9863636363636363,
+          "passer": 0.9727272727272728,
+          "receiver": 0.9636363636363636,
+          "runner": 0.990909090909091,
+          "yards": 0.9681818181818181,
+          "result": 0.9727272727272728
+        }
+      }
+    },
+    "Haiku 4.5 few-shot": {
+      "test": {
+        "n": 80,
+        "mean": 0.9875,
+        "lo": 0.9325356757603457,
+        "hi": 0.9977900813816939,
+        "runs": [
+          0.9875,
+          0.9875
+        ],
+        "fields": {
+          "play_type": 0.9875,
+          "passer": 0.9875,
+          "receiver": 0.9875,
+          "runner": 0.9875,
+          "yards": 0.9875,
+          "result": 0.9875
+        }
+      },
+      "hard": {
+        "n": 30,
+        "mean": 0.9333333333333333,
+        "lo": 0.7867618227892791,
+        "hi": 0.9815233646723066,
+        "runs": [
+          0.9333333333333333,
+          0.9333333333333333
+        ],
+        "fields": {
+          "play_type": 1.0,
+          "passer": 0.9666666666666667,
+          "receiver": 0.9666666666666667,
+          "runner": 1.0,
+          "yards": 0.9333333333333333,
+          "result": 0.9666666666666667
+        }
+      },
+      "all": {
+        "n": 110,
+        "mean": 0.9727272727272728,
+        "lo": 0.9228678565608878,
+        "hi": 0.9906821989548465,
+        "runs": [
+          0.9727272727272728,
+          0.9727272727272728
+        ],
+        "fields": {
+          "play_type": 0.990909090909091,
+          "passer": 0.9818181818181818,
+          "receiver": 0.9818181818181818,
+          "runner": 0.990909090909091,
+          "yards": 0.9727272727272728,
+          "result": 0.9818181818181818
+        }
+      }
+    },
+    "Sonnet 5.5 few-shot": {
+      "test": {
+        "n": 80,
+        "mean": 0.99375,
+        "lo": 0.9429058384254164,
+        "hi": 0.9993471720133157,
+        "runs": [
+          1.0,
+          0.9875
+        ],
+        "fields": {
+          "play_type": 0.99375,
+          "passer": 0.99375,
+          "receiver": 0.99375,
+          "runner": 0.99375,
+          "yards": 1.0,
+          "result": 0.99375
+        }
+      },
+      "hard": {
+        "n": 30,
+        "mean": 1.0,
+        "lo": 0.8864829086095221,
+        "hi": 1,
+        "runs": [
+          1.0,
+          1.0
+        ],
+        "fields": {
+          "play_type": 1.0,
+          "passer": 1.0,
+          "receiver": 1.0,
+          "runner": 1.0,
+          "yards": 1.0,
+          "result": 1.0
+        }
+      },
+      "all": {
+        "n": 110,
+        "mean": 0.9954545454545455,
+        "lo": 0.957945446647519,
+        "hi": 0.999525284614164,
+        "runs": [
+          1.0,
+          0.990909090909091
+        ],
+        "fields": {
+          "play_type": 0.9954545454545455,
+          "passer": 0.9954545454545455,
+          "receiver": 0.9954545454545455,
+          "runner": 0.9954545454545455,
+          "yards": 1.0,
+          "result": 0.9954545454545455
+        }
+      }
+    }
+  },
+  "paired_tests": {
+    "Haiku 4.5 zero-shot": {
+      "baseline_wrong_system_right": 32,
+      "baseline_right_system_wrong": 3,
+      "p": 4.176981747150421e-07
+    },
+    "Haiku 4.5 few-shot": {
+      "baseline_wrong_system_right": 34,
+      "baseline_right_system_wrong": 1,
+      "p": 2.0954757928848267e-09
+    },
+    "Sonnet 5.5 few-shot": {
+      "baseline_wrong_system_right": 36,
+      "baseline_right_system_wrong": 0,
+      "p": 2.9103830456733704e-11
+    },
+    "few vs zero (Haiku)": {
+      "zero_wrong_few_right": 6,
+      "zero_right_few_wrong": 2,
+      "p": 0.2890625
+    }
+  },
+  "per_category": {
+    "Rule-based baseline": {
+      "extra numbers (n=4)": 1.0,
+      "jersey numbers (n=2)": 0.5,
+      "missing yards (n=5)": 0.8,
+      "misspelled names (n=2)": 0.0,
+      "non-play (n=4)": 0.0,
+      "passive voice (n=5)": 0.6,
+      "player not on roster (n=2)": 1.0,
+      "slang (n=4)": 0.0,
+      "two plays (label last) (n=2)": 0.5
+    },
+    "Haiku 4.5 zero-shot": {
+      "extra numbers (n=4)": 1.0,
+      "jersey numbers (n=2)": 1.0,
+      "missing yards (n=5)": 0.9,
+      "misspelled names (n=2)": 1.0,
+      "non-play (n=4)": 1.0,
+      "passive voice (n=5)": 1.0,
+      "player not on roster (n=2)": 0.5,
+      "slang (n=4)": 0.5,
+      "two plays (label last) (n=2)": 1.0
+    },
+    "Haiku 4.5 few-shot": {
+      "extra numbers (n=4)": 1.0,
+      "jersey numbers (n=2)": 1.0,
+      "missing yards (n=5)": 0.8,
+      "misspelled names (n=2)": 0.5,
+      "non-play (n=4)": 1.0,
+      "passive voice (n=5)": 1.0,
+      "player not on roster (n=2)": 1.0,
+      "slang (n=4)": 1.0,
+      "two plays (label last) (n=2)": 1.0
+    },
+    "Sonnet 5.5 few-shot": {
+      "extra numbers (n=4)": 1.0,
+      "jersey numbers (n=2)": 1.0,
+      "missing yards (n=5)": 1.0,
+      "misspelled names (n=2)": 1.0,
+      "non-play (n=4)": 1.0,
+      "passive voice (n=5)": 1.0,
+      "player not on roster (n=2)": 1.0,
+      "slang (n=4)": 1.0,
+      "two plays (label last) (n=2)": 1.0
+    }
+  },
+  "date": "2026-10-19"
+}
