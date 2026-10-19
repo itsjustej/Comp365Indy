@@ -14,4 +14,4 @@ Question: can an LLM turn one plain-English sentence about a flag football play 
 3. Models: `claude-haiku-4-5-20251001`, `claude-sonnet-5-5`; default temperature; max_tokens 1024; two runs each.
 
 ## AI use and limits
-The sentences, labels, second-annotator pass, notebook code and paper drafts were produced with Claude (Anthropic) under the author's direction. The same model family is also tested, so results are a feasibility check, not evidence of real-world accuracy. No human-subjects data were collected. Never commit an API key.
+The sentences, labels, and notebook code were produced with Claude (Anthropic). The same model family is also tested, so results are a feasibility check, not evidence of real-world accuracy. No human-subjects data were collected.
